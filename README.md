@@ -1,2 +1,1 @@
-# Intamod
-ups_santtxs 
+["ups_santtxs"]
